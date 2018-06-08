@@ -1,0 +1,15 @@
+{
+  "name": "hoi",
+  "version": "0.1.1",
+  "description": "test app",
+  "main": "./bin/ww",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.3"
+  }
+}
